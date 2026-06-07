@@ -1,4 +1,4 @@
-# Smart Farm Yield Forecasting & Logistics Planning
+# AI-Powered Farm Yield Forecasting & Logistics Planning System
 
 ## Project Overview
 
